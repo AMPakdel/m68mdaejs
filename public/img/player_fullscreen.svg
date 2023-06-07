@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.664" height="20.664" viewBox="0 0 20.664 20.664">
+  <g id="Iconly_Light_Plus" transform="translate(0.75 0.75)">
+    <g id="Plus">
+      <path id="Path_5_" d="M7.9,0H5.3C2,0,0,2.3,0,5.6V7.9" fill="none" stroke="#f9f9f9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_3_" d="M20,7.9V5.6C20,2.3,18,0,14.7,0H12.1" transform="translate(-0.836)" fill="none" stroke="#f9f9f9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_1_" d="M12.1,20h2.6C18,20,20,17.7,20,14.4V12" transform="translate(-0.836 -0.836)" fill="none" stroke="#f9f9f9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_2_" d="M0,12v2.4C0,17.7,2,20,5.3,20H7.9" transform="translate(0 -0.836)" fill="none" stroke="#f9f9f9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

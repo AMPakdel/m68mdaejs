@@ -1,0 +1,35 @@
+{
+  "name": "Minfo",
+  "version": "1.0.1",
+  "description": "Minfo Desktop Player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon --exec electron .",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "author": "AmirMohammadPakdel",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0",
+    "@electron-forge/maker-deb": "^6.0.0",
+    "@electron-forge/maker-rpm": "^6.0.0",
+    "@electron-forge/maker-squirrel": "^6.0.0",
+    "@electron-forge/maker-zip": "^6.0.0",
+    "electron": "^21.0.1",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@electron/asar": "^3.2.2",
+    "axios": "^1.1.0",
+    "check-disk-space": "^3.3.1",
+    "easydl": "^1.0.3",
+    "electron-squirrel-startup": "^1.0.0",
+    "node-machine-id": "^1.1.12"
+  },
+  "build": {
+    "asar": true
+  }
+}

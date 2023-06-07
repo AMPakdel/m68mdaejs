@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Downlaod" transform="translate(0)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M8.426,0H0" transform="translate(12.157 6.171) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,0,2.465,2.455,0,4.909" transform="translate(14.611 12.132) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,0V10.219" transform="translate(17.266 17.441) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Ellipse_50" data-name="Ellipse 50" transform="translate(0)" fill="none" stroke="#212121" stroke-width="1.5">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.25" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_16220" data-name="Group 16220" transform="translate(-0.33)">
+    <circle id="Ellipse_41" data-name="Ellipse 41" cx="10" cy="10" r="10" transform="translate(0.33)" fill="#fff" opacity="0.9"/>
+    <path id="Fill_4" data-name="Fill 4" d="M2.667.205c-.032.032-.167.15-.279.261a12.087,12.087,0,0,0-2.2,3.226A2.644,2.644,0,0,0,0,4.349a1.1,1.1,0,0,0,.12.5,1.033,1.033,0,0,0,.5.443,5.361,5.361,0,0,0,.583.143,12.943,12.943,0,0,0,2.084.134A14.944,14.944,0,0,0,5.3,5.448a4.523,4.523,0,0,0,.727-.19.994.994,0,0,0,.543-.878V4.349a2.755,2.755,0,0,0-.223-.735A12.071,12.071,0,0,0,4.176.459a3.117,3.117,0,0,0-.3-.269A.968.968,0,0,0,3.29,0a1.016,1.016,0,0,0-.623.205" transform="translate(12.142 6.714) rotate(90)" fill="#6f3af9" stroke="#6f3af9" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" y2="8.5" transform="translate(13.042 5.75)" fill="none" stroke="#6f3af9" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

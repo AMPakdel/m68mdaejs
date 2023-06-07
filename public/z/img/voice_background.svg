@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="774" height="570" viewBox="0 0 774 570">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.186" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6f3af9"/>
+      <stop offset="0.216" stop-color="#5222cf"/>
+      <stop offset="1" stop-color="#01f093"/>
+    </linearGradient>
+  </defs>
+  <path id="Screenshot_527_" data-name="Screenshot (527)" d="M0-10,774,0V560H0Z" transform="translate(0 10)" fill="url(#linear-gradient)"/>
+</svg>
